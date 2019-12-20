@@ -1,0 +1,263 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ibehf\\source\\repos\\Programmer-s-Calculator\\Programmer's Calculator\\Calculator.Test\\Calculator.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ibehf\\source\\repos\\Programmer-s-Calculator\\Programmer's Calculator\\Calculator.Test\\Calculator.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ibehf\\source\\repos\\Programmer-s-Calculator\\Programmer's Calculator\\Calculator.Test\\Calculator.Test.csproj",
+        "projectName": "Calculator.Test",
+        "projectPath": "C:\\Users\\ibehf\\source\\repos\\Programmer-s-Calculator\\Programmer's Calculator\\Calculator.Test\\Calculator.Test.csproj",
+        "packagesPath": "C:\\Users\\ibehf\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ibehf\\source\\repos\\Programmer-s-Calculator\\Programmer's Calculator\\Calculator.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ibehf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\ibehf\\source\\repos\\Programmer-s-Calculator\\Programmer's Calculator\\Convertors\\Convertors.csproj": {
+                "projectPath": "C:\\Users\\ibehf\\source\\repos\\Programmer-s-Calculator\\Programmer's Calculator\\Convertors\\Convertors.csproj"
+              },
+              "C:\\Users\\ibehf\\source\\repos\\Programmer-s-Calculator\\Programmer's Calculator\\Numbers\\Numbers.csproj": {
+                "projectPath": "C:\\Users\\ibehf\\source\\repos\\Programmer-s-Calculator\\Programmer's Calculator\\Numbers\\Numbers.csproj"
+              },
+              "C:\\Users\\ibehf\\source\\repos\\Programmer-s-Calculator\\Programmer's Calculator\\Operators\\Operations.csproj": {
+                "projectPath": "C:\\Users\\ibehf\\source\\repos\\Programmer-s-Calculator\\Programmer's Calculator\\Operators\\Operations.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "include": "None",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0-preview6-27804-01, )",
+              "autoReferenced": true
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": [
+            "Microsoft.NETCore.App"
+          ]
+        }
+      }
+    },
+    "C:\\Users\\ibehf\\source\\repos\\Programmer-s-Calculator\\Programmer's Calculator\\Convertors\\Convertors.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ibehf\\source\\repos\\Programmer-s-Calculator\\Programmer's Calculator\\Convertors\\Convertors.csproj",
+        "projectName": "Convertors",
+        "projectPath": "C:\\Users\\ibehf\\source\\repos\\Programmer-s-Calculator\\Programmer's Calculator\\Convertors\\Convertors.csproj",
+        "packagesPath": "C:\\Users\\ibehf\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ibehf\\source\\repos\\Programmer-s-Calculator\\Programmer's Calculator\\Convertors\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ibehf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\ibehf\\source\\repos\\Programmer-s-Calculator\\Programmer's Calculator\\Numbers\\Numbers.csproj": {
+                "projectPath": "C:\\Users\\ibehf\\source\\repos\\Programmer-s-Calculator\\Programmer's Calculator\\Numbers\\Numbers.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": [
+            "Microsoft.NETCore.App"
+          ]
+        }
+      }
+    },
+    "C:\\Users\\ibehf\\source\\repos\\Programmer-s-Calculator\\Programmer's Calculator\\Numbers\\Numbers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ibehf\\source\\repos\\Programmer-s-Calculator\\Programmer's Calculator\\Numbers\\Numbers.csproj",
+        "projectName": "Numbers",
+        "projectPath": "C:\\Users\\ibehf\\source\\repos\\Programmer-s-Calculator\\Programmer's Calculator\\Numbers\\Numbers.csproj",
+        "packagesPath": "C:\\Users\\ibehf\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ibehf\\source\\repos\\Programmer-s-Calculator\\Programmer's Calculator\\Numbers\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ibehf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": [
+            "Microsoft.NETCore.App"
+          ]
+        }
+      }
+    },
+    "C:\\Users\\ibehf\\source\\repos\\Programmer-s-Calculator\\Programmer's Calculator\\Operators\\Operations.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ibehf\\source\\repos\\Programmer-s-Calculator\\Programmer's Calculator\\Operators\\Operations.csproj",
+        "projectName": "Operations",
+        "projectPath": "C:\\Users\\ibehf\\source\\repos\\Programmer-s-Calculator\\Programmer's Calculator\\Operators\\Operations.csproj",
+        "packagesPath": "C:\\Users\\ibehf\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ibehf\\source\\repos\\Programmer-s-Calculator\\Programmer's Calculator\\Operators\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ibehf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\ibehf\\source\\repos\\Programmer-s-Calculator\\Programmer's Calculator\\Numbers\\Numbers.csproj": {
+                "projectPath": "C:\\Users\\ibehf\\source\\repos\\Programmer-s-Calculator\\Programmer's Calculator\\Numbers\\Numbers.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": [
+            "Microsoft.NETCore.App"
+          ]
+        }
+      }
+    }
+  }
+}

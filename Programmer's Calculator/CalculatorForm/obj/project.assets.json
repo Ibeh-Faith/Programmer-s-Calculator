@@ -1,0 +1,145 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Convertors/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "dependencies": {
+          "Numbers": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Convertors.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Convertors.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.NETCore.App"
+        ]
+      },
+      "Numbers/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/Numbers.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Numbers.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.NETCore.App"
+        ]
+      },
+      "Operations/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "dependencies": {
+          "Numbers": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Operations.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Operations.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.NETCore.App"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "Convertors/1.0.0": {
+      "type": "project",
+      "path": "../Convertors/Convertors.csproj",
+      "msbuildProject": "../Convertors/Convertors.csproj"
+    },
+    "Numbers/1.0.0": {
+      "type": "project",
+      "path": "../Numbers/Numbers.csproj",
+      "msbuildProject": "../Numbers/Numbers.csproj"
+    },
+    "Operations/1.0.0": {
+      "type": "project",
+      "path": "../Operators/Operations.csproj",
+      "msbuildProject": "../Operators/Operations.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "Convertors >= 1.0.0",
+      "Numbers >= 1.0.0",
+      "Operations >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ibehf\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\ibehf\\source\\repos\\Programmer-s-Calculator\\Programmer's Calculator\\CalculatorForm\\CalculatorForm.csproj",
+      "projectName": "CalculatorForm",
+      "projectPath": "C:\\Users\\ibehf\\source\\repos\\Programmer-s-Calculator\\Programmer's Calculator\\CalculatorForm\\CalculatorForm.csproj",
+      "packagesPath": "C:\\Users\\ibehf\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ibehf\\source\\repos\\Programmer-s-Calculator\\Programmer's Calculator\\CalculatorForm\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\ibehf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "C:\\Users\\ibehf\\source\\repos\\Programmer-s-Calculator\\Programmer's Calculator\\Convertors\\Convertors.csproj": {
+              "projectPath": "C:\\Users\\ibehf\\source\\repos\\Programmer-s-Calculator\\Programmer's Calculator\\Convertors\\Convertors.csproj"
+            },
+            "C:\\Users\\ibehf\\source\\repos\\Programmer-s-Calculator\\Programmer's Calculator\\Numbers\\Numbers.csproj": {
+              "projectPath": "C:\\Users\\ibehf\\source\\repos\\Programmer-s-Calculator\\Programmer's Calculator\\Numbers\\Numbers.csproj"
+            },
+            "C:\\Users\\ibehf\\source\\repos\\Programmer-s-Calculator\\Programmer's Calculator\\Operators\\Operations.csproj": {
+              "projectPath": "C:\\Users\\ibehf\\source\\repos\\Programmer-s-Calculator\\Programmer's Calculator\\Operators\\Operations.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": [
+          "Microsoft.NETCore.App"
+        ]
+      }
+    }
+  }
+}

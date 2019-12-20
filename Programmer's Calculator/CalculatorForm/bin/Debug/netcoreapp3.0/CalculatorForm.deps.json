@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "CalculatorForm/1.0.0": {
+        "dependencies": {
+          "Convertors": "1.0.0",
+          "Numbers": "1.0.0",
+          "Operations": "1.0.0"
+        },
+        "runtime": {
+          "CalculatorForm.dll": {}
+        }
+      },
+      "Convertors/1.0.0": {
+        "dependencies": {
+          "Numbers": "1.0.0"
+        },
+        "runtime": {
+          "Convertors.dll": {}
+        }
+      },
+      "Numbers/1.0.0": {
+        "runtime": {
+          "Numbers.dll": {}
+        }
+      },
+      "Operations/1.0.0": {
+        "dependencies": {
+          "Numbers": "1.0.0"
+        },
+        "runtime": {
+          "Operations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculatorForm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Convertors/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Numbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Operations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,9 @@
+C:\Users\ibehf\Source\Repos\isam5430-fa19-project-group-4\Calculator\Numbers\bin\Debug\netcoreapp3.0\Numbers.deps.json
+C:\Users\ibehf\Source\Repos\isam5430-fa19-project-group-4\Calculator\Numbers\bin\Debug\netcoreapp3.0\Numbers.dll
+C:\Users\ibehf\Source\Repos\isam5430-fa19-project-group-4\Calculator\Numbers\bin\Debug\netcoreapp3.0\Numbers.pdb
+C:\Users\ibehf\Source\Repos\isam5430-fa19-project-group-4\Calculator\Numbers\obj\Debug\netcoreapp3.0\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\ibehf\Source\Repos\isam5430-fa19-project-group-4\Calculator\Numbers\obj\Debug\netcoreapp3.0\Numbers.AssemblyInfoInputs.cache
+C:\Users\ibehf\Source\Repos\isam5430-fa19-project-group-4\Calculator\Numbers\obj\Debug\netcoreapp3.0\Numbers.AssemblyInfo.cs
+C:\Users\ibehf\Source\Repos\isam5430-fa19-project-group-4\Calculator\Numbers\obj\Debug\netcoreapp3.0\Numbers.dll
+C:\Users\ibehf\Source\Repos\isam5430-fa19-project-group-4\Calculator\Numbers\obj\Debug\netcoreapp3.0\Numbers.pdb
+C:\Users\ibehf\Source\Repos\isam5430-fa19-project-group-4\Calculator\Numbers\obj\Debug\netcoreapp3.0\Numbers.csprojAssemblyReference.cache

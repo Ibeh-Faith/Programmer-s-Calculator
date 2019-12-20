@@ -1,0 +1,12 @@
+C:\Users\ibehf\Source\Repos\isam5430-fa19-project-group-4\Calculator\Operators\bin\Debug\netcoreapp3.0\Operations.deps.json
+C:\Users\ibehf\Source\Repos\isam5430-fa19-project-group-4\Calculator\Operators\bin\Debug\netcoreapp3.0\Operations.dll
+C:\Users\ibehf\Source\Repos\isam5430-fa19-project-group-4\Calculator\Operators\bin\Debug\netcoreapp3.0\Operations.pdb
+C:\Users\ibehf\Source\Repos\isam5430-fa19-project-group-4\Calculator\Operators\bin\Debug\netcoreapp3.0\Numbers.dll
+C:\Users\ibehf\Source\Repos\isam5430-fa19-project-group-4\Calculator\Operators\bin\Debug\netcoreapp3.0\Numbers.pdb
+C:\Users\ibehf\Source\Repos\isam5430-fa19-project-group-4\Calculator\Operators\obj\Debug\netcoreapp3.0\Operations.csprojAssemblyReference.cache
+C:\Users\ibehf\Source\Repos\isam5430-fa19-project-group-4\Calculator\Operators\obj\Debug\netcoreapp3.0\Operations.csproj.CoreCompileInputs.cache
+C:\Users\ibehf\Source\Repos\isam5430-fa19-project-group-4\Calculator\Operators\obj\Debug\netcoreapp3.0\Operations.AssemblyInfoInputs.cache
+C:\Users\ibehf\Source\Repos\isam5430-fa19-project-group-4\Calculator\Operators\obj\Debug\netcoreapp3.0\Operations.AssemblyInfo.cs
+C:\Users\ibehf\Source\Repos\isam5430-fa19-project-group-4\Calculator\Operators\obj\Debug\netcoreapp3.0\Operations.csproj.CopyComplete
+C:\Users\ibehf\Source\Repos\isam5430-fa19-project-group-4\Calculator\Operators\obj\Debug\netcoreapp3.0\Operations.dll
+C:\Users\ibehf\Source\Repos\isam5430-fa19-project-group-4\Calculator\Operators\obj\Debug\netcoreapp3.0\Operations.pdb
